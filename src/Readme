@@ -1,0 +1,5 @@
+$ tar -zxvf CS6135_HW3_113062632.tar.gz
+$ cd HW3/src
+$ make
+$ ./bin/hw3 ../testcase/public1.txt ../output/public1.out 0.1
+$ make clean
